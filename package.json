@@ -1,0 +1,22 @@
+{
+  "name": "cy-bootcamp",
+  "version": "1.0.0",
+  "description": "Learing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabika1983/CY_project.git"
+  },
+  "author": "Gabka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabika1983/CY_project/issues"
+  },
+  "homepage": "https://github.com/Gabika1983/CY_project#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
